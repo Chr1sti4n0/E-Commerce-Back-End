@@ -5,7 +5,7 @@
   *[Installation](#installation)
   *[Usage](#usage)
   *[Tests](#tests)
-  *[Vimeo](#vimeo)
+  *[Video](#video)
 
   ## Description 
   This project involves the use of express.js, sequelize and MySQL to create a back end application that will read, create, update and delete data from a databse through GET, POST, PUT and DELETE routes. 
@@ -39,7 +39,8 @@
   A GET, POST, PUT and DELETE route were tested in Postman for the product, tag and category routes. 
 
 #
-  <a name='vimeo'></a>
+  <a name='video'></a>
 
-  ## Vimeo
+  ## Video
   
+  https://youtu.be/8INl9a9nE8U
